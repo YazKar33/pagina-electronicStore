@@ -29,7 +29,7 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
 }
 /* Estilos para móviles */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .barra-color {
     height: 80px; /* Altura reducida en pantallas pequeñas */
     font-size: 20px; /* Opcional: ajustar el tamaño de la fuente si es necesario */
@@ -149,7 +149,7 @@ h2 {
 }
 
 /* Estilos para móviles         ___________________________*/
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .waves {
     height: 40px;
     min-height: 40px;
@@ -359,7 +359,7 @@ li:hover a:after {
 }
 
 /* Estilos para móviles */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .titulo1 {
     font-size: 20px; /* Tamaño reducido en pantallas pequeñas */
     letter-spacing: 2px; /* Ajusta el espaciado de las letras si es necesario */
